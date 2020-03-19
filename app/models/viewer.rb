@@ -11,5 +11,18 @@ class Viewer
   def self.all
     @@all
   end
+
+  def reviews
+    array = []
+    Review.all.each do |viewer|
+      if reviews.viewer == reviews
+        array << reviews
+      end
+    end
+
+
+  end
+
+  
   
 end
