@@ -11,6 +11,9 @@ end
 # so they will be available to test and play around with in your console
 
 
+movie =Movie.new
+review=Review.new
+viewer=Viewer.new
 
 
 
